@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Programming
+          company: 
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: program
+          location: Russia
+          date_start: '2019-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
+              * Python
               * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Visualization
+        - title: Artist
+          company: I and I
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: art
+          location: Moscow
+          date_start: '2011-06-15'
+          date_end: '2021-12-31'
+          description: Drawing and improving skills in art
     design:
       columns: '2'
   - block: accomplishments
@@ -100,30 +100,30 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2011-12-31'
           description: ''
           icon: coursera
-          organization: Coursera
+          organization: School
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Drawing
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          date_start: '2019-01-01'
+          description: Programming in C++, Python, Unity. 
           icon: edx
-          organization: edX
+          organization: School
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: ''
+          date_start: '2024-03-01'
           description: ''
           icon: datacamp
-          organization: DataCamp
+          organization: I
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'I have my own library'
           url: ''
     design:
       columns: '2'
@@ -171,9 +171,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: C++
           tag: Deep Learning
-        - name: Other
+        - name: Python
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

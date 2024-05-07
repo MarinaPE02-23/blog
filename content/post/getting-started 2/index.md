@@ -1,9 +1,10 @@
 ---
-title: Как прошла моя неделя? 2.0
+title: Как прошла моя неделя?
 subtitle: Сейчас будет история о том, как я много училась и читала, но хотелось бы еще и отдохнуть и привести мысли в порядок. 
 
 # Summary for listings and search engines
-summary: История моей первой недели
+summary: Как прошла моя 3 неделя
+
 # Link this post with a project
 projects: []
 
